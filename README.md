@@ -1,3 +1,3 @@
 # simple_vca
 
-Dies ist ein sehr einfacher VCA für Eurorack Synthesizer.
+This is a very simple dual VCA with CV input, audio input and audio output. Both very simple twice identical next to each other. It has a trimmer to adjust the "no volume".
